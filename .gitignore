@@ -1,1 +1,15 @@
 _site/
+
+# Python object code.
+*.pyc
+*.pyo
+*~
+
+# Vim temporary files.
+*.sw*
+
+# Folders created by setup.py.
+dist
+build
+_build
+*.egg-info
